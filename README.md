@@ -3,8 +3,7 @@
 
 **Problem Statement:**
 
->The Titanic dataset provides information on the fate of the passengers on the Titanic, summarized according to economic status, sex, age and survival. </br>
->Our task is to predict the survival of the Titanic passengers.. Let's install the libraries we need..
+>The Titanic dataset provides information on the fate of the passengers on the Titanic, summarized according to economic status, sex, age and survival. Our task is to predict the survival of the Titanic passengers.. Let's install the libraries we need..
 
 When you complete this notebook you can able to understand as follow;
 
